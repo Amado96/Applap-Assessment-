@@ -1,4 +1,4 @@
-I create products management system by five basic operations (Create,Read,Update,Delete,Search) 
+I create  responsive website products management system by five basic operations (Create,Read,Update,Delete,Search) 
 I build this project with clean code and meaning full comments
 I use local storage for storing data at local server
 First I start project by making structure using HTML language
